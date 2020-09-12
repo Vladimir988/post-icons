@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "post-icons.css",
+	"sources": [
+		"../scss/post-icons.scss"
+	],
+	"sourcesContent": [
+		".pi-dashicons {\r\n\tfont-size: inherit;\r\n\tline-height: inherit;\r\n\tcolor: inherit;\r\n\t&::before {\r\n\t\tfont-size: inherit;\r\n\t\tline-height: inherit;\r\n\t\tcolor: inherit;\r\n\t}\r\n\r\n\t&.left {\r\n\t\tpadding-right: 5px;\r\n\t}\r\n\r\n\t&.right {\r\n\t\tpadding-left: 5px;\r\n\t}\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,aAAa,CAAC;EACb,SAAS,EAAE,OAAO;EAClB,WAAW,EAAE,OAAO;EACpB,KAAK,EAAE,OAAO;CAcd;;AAjBD,AAIC,aAJY,AAIX,QAAQ,CAAC;EACT,SAAS,EAAE,OAAO;EAClB,WAAW,EAAE,OAAO;EACpB,KAAK,EAAE,OAAO;CACd;;AARF,AAUC,aAVY,AAUX,KAAK,CAAC;EACN,aAAa,EAAE,GAAG;CAClB;;AAZF,AAcC,aAdY,AAcX,MAAM,CAAC;EACP,YAAY,EAAE,GAAG;CACjB"
+}
